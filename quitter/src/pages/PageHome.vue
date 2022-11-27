@@ -28,7 +28,7 @@
             unelevated
             rounded
             color="primary"
-            label="Queet"
+            label="Qweet"
             no-caps />
       </div>
     </div>
